@@ -1,6 +1,5 @@
 let num1 = 31
 let num2 = 2 
-let set = [3, 5, 12,]
 
 let multiply = num1 * num2
 
